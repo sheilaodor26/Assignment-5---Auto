@@ -4,5 +4,6 @@ The "Exploring Categorical Feature Encoding Techniques in Car Analysis" project 
 
 ## Getting Started
 
+# Prerequisites
 
 
