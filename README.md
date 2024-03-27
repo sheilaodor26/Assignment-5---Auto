@@ -1,2 +1,3 @@
-# Project Title
-This project help with helping sheila
+# Exploring Categorical Feature Encoding Techniques in Car Analysis: A Python Project
+
+
